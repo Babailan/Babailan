@@ -56,6 +56,6 @@
 [linkedin]: https://www.linkedin.com/in/ronnel-babailan-a08074213/
 
 ![Babailan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babailan&show_icons=true&theme=radical)
-[![Babailan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Babailan)](https://github.com/anuraghazra/github-readme-stats)
+[![Babailan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Babailan)](https://github.com/Babailan/)
 
 
