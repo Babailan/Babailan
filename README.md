@@ -3,13 +3,13 @@
 [![Website](https://img.shields.io/website?label=babailan.github.io&style=for-the-badge&url=https://babailan.github.io)](https://babailan.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArigatoED?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ArigatoED)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Programmer,Becoming ,MERN STACK DEVELOPER🤣🤣🤣
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Hello Stalker 🤣🤣🤣!
+- 🌱 I’m currently learning everything 🤣🤣🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Learn Node.js
+- ⚡ Fun fact: I love anime and manga / I'm Single feel free to Contact me 🤣🤣🤣 
 
 ### Connect with me:
 
@@ -38,55 +38,19 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 About Me
 
-<!-- YOUTUBE:START -->
-- [$1M in 1000 Days❓, IDE vs Text Editor 🆚, & How Many Languages to Learn 📚 // STACKr News Weekly](https://www.youtube.com/watch?v=kroLbiFXMjw)
-- [Remote Team Collaboration Techniques // Tara Z. Manicsic React Advanced London Interview](https://www.youtube.com/watch?v=vQjDWKy6Pcw)
-- [2021 Frontend Roadmap #shorts | Save This!](https://www.youtube.com/watch?v=CxDwSZwysjQ)
-- [Make $500k as a College Dropout 💲, Find Tech Jobs 🔍, Get Started in Quantum 💻 // STACKr News Weekly](https://www.youtube.com/watch?v=OttkdpbSchQ)
-- [The Origins of React // Jenn Creighton React Advanced London Interview](https://www.youtube.com/watch?v=lIJHjamOPfM)
-<!-- YOUTUBE:END -->
+<!-- ABOUT ME -->
+- [I'm a from philippines. Currently working in ModernSoftworks](https://modernsoftworks.com/modern%20softworks/)
+- I'm 15 Year Old Now. I Wan't To Be A Professional MERN DEVELOPER 💖💖💖
+- My Favorite Is Movie Is About Dinosaur
+- Feel Free To Contact Me 💖💖💖💖💖💖
+<!-- ABOUT ME -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
 
----
 
-### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://codeSTACKr.com
+[website]: https://babailan.github.io/
 [twitter]: https://twitter.com/ArigatoED
 [instagram]: https://www.instagram.com/ronelbabailan/
 [linkedin]: https://www.linkedin.com/in/ronnel-babailan-a08074213/
