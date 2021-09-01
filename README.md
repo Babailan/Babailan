@@ -56,6 +56,6 @@
 [linkedin]: https://www.linkedin.com/in/ronnel-babailan-a08074213/
 
 ![Babailan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babailan&show_icons=true&theme=radical)
-[![Babailan Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Babailan&layout=compact)](https://github.com/Babailan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
