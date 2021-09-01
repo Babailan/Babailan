@@ -1,7 +1,7 @@
 ### Hi there, I'm Ronnel Babailan - aka [BABI][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://babailan.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ArigatoED)
+[![Website](https://img.shields.io/website?label=babailan.github.io&style=for-the-badge&url=https://babailan.github.io)](https://babailan.github.io/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ArigatoED?color=1DA1F2&logo=twitter&style=for-the-badge)](https://img.shields.io/twitter/follow/ArigatoED?color=1DA1F2&logo=twitter&style=for-the-badge)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
