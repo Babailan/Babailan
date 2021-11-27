@@ -41,10 +41,10 @@
 ### 📺 About Me
 
 <!-- ABOUT ME -->
-- [I'm a from philippines. Currently working in ModernSoftworks](https://modernsoftworks.com/modern%20softworks/)
-- I'm 15 Year Old Now. I Wan't To Be A Professional MERN DEVELOPER 💖💖💖
-- My Favorite Is Movie Is About Dinosaur
-- Feel Free To Contact Me 💖💖💖💖💖💖
+- TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+- I'm 15 year old oow. I wan't to be a professional mern stack 
+- My favorite is movie is about dinosaur
+- Feel free to contact ce
 <!-- ABOUT ME -->
 
 
