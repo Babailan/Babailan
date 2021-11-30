@@ -42,9 +42,7 @@
 
 <!-- ABOUT ME -->
 - TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
-- I'm 15 year old now. I wan't to be a professional mern stack 
-- My favorite is movie is about dinosaur
-- Feel free to contact ce
+- None
 <!-- ABOUT ME -->
 
 
