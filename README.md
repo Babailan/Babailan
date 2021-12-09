@@ -5,11 +5,11 @@
 
 ## I'm a Idle :<
 
-- 🔭 Hello Stalker 🤣🤣🤣!
-- 🌱 I’m currently learning everything 🤣🤣🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn Node.js
-- ⚡ Fun fact: I love anime and manga / I'm Single feel free to Contact me 🤣🤣🤣 
+- 🔭 Hello Stalker !
+- 🌱 I’m currently learning everything !
+- 👯 I’m looking to collaborate with other content creators!
+- 🥅 2021 Goals: Learn Node.js!
+- ⚡ Fun fact: I love anime and manga  !
 
 ### Connect with me:
 
