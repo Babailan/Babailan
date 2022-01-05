@@ -51,8 +51,3 @@
 [twitter]: https://twitter.com/ArigatoED
 [instagram]: https://www.instagram.com/ronelbabailan/
 [linkedin]: https://www.linkedin.com/in/ronnel-babailan-a08074213/
-
-![Babailan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babailan&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Babailan)](https://github.com/anuraghazra/github-readme-stats)
-
-
