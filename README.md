@@ -7,9 +7,9 @@
 
 - 🔭 Hello Stalker !
 - 🌱 I’m currently learning everything !
-- 👯 I’m looking to collaborate with other content creators!
-- 🥅 2021 Goals: Learn Node.js!
-- ⚡ Fun fact: I love anime and manga  !
+- 👯 I’m looking to collaborate with other programmer!
+- 🥅 2022 Goals: Learn Node.js!
+- ⚡ Fun fact: I love Endian !
 
 ### Connect with me:
 
