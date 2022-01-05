@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=babailan.github.io&style=for-the-badge&url=https://babailan.github.io)](https://babailan.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArigatoED?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ArigatoED)
 
-## I'm a Idle :<
+## ┌(┌ 廿-廿)┐
 
 - 🔭 Hello Stalker !
 - 🌱 I’m currently learning everything !
