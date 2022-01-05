@@ -38,14 +38,6 @@
 
 ---
 
-### 📺 About Me
-
-<!-- ABOUT ME -->
-- I don't have anything about me <:
-<!-- ABOUT ME -->
-
-
-
 
 [website]: https://babailan.github.io/
 [twitter]: https://twitter.com/ArigatoED
