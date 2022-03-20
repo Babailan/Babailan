@@ -4,11 +4,9 @@
 
 ## ┌(┌ 廿-廿)┐
 
-- 🔭 Hello Stalker !
 - 🌱 I’m currently learning everything !
 - 👯 I’m looking to collaborate with other programmer!
 - 🥅 2022 Goals: Learn Node.js!
-- ⚡ Fun fact: I love Endian !
 
 ### Connect with me:
 
