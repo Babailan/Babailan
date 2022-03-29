@@ -1,7 +1,4 @@
 # Hi there, I'm @Babailan
-
-[![Website](https://img.shields.io/website?label=babailan.github.io&style=for-the-badge&url=https://babailan.github.io)](https://babailan.github.io/)
-
 ## ┌(┌ 廿-廿)┐
 
 - 🌱 I’m currently learning everything !
