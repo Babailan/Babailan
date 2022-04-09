@@ -14,12 +14,3 @@
 
 <br />
 
-
-
----
-
-
-[website]: https://babailan.github.io/
-[twitter]: https://twitter.com/ArigatoED
-[instagram]: https://www.instagram.com/ronelbabailan/
-[linkedin]: https://www.linkedin.com/in/ronnel-babailan-a08074213/
