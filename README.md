@@ -11,3 +11,6 @@
 [![](https://visitcount.itsvg.in/api?id=Babailan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Connect with me! [![](mailto:babailanxx@gmail.com)(mailto:babailanxx@gmail.com)
+
