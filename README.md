@@ -12,5 +12,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+Currently learning:C++
+
 Connect with me! [![](mailto:babailanxx@gmail.com)(mailto:babailanxx@gmail.com)
 
