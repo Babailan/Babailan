@@ -12,7 +12,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Currently learning:C++
+> Objective this year : to learn computer networking.
 
 Connect with me! [![](mailto:babailanxx@gmail.com)(mailto:babailanxx@gmail.com)
 
