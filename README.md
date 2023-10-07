@@ -11,8 +11,13 @@
 [![](https://visitcount.itsvg.in/api?id=Babailan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌱 Current Learning Goals:
 
-> Objective this year : to learn computer networking.
+- Improving my algorithm and analytical skills
+- Exploring sveltekit
 
-Connect with me! [![](mailto:babailanxx@gmail.com)(mailto:babailanxx@gmail.com)
+Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on something cool!
+
+[Conect with me](mailto:babailanxx@gmail.com) 
+
 
